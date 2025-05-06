@@ -33,6 +33,30 @@ Also includes links to adjacent topics such as the post-quantum efforts of some 
 
 ## Articles
 
+### High-level
+- (2022) [[McKinsey] When - and how - to prepare for post-quantum cryptography](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/when-and-how-to-prepare-for-post-quantum-cryptography)
+- (2023) [[RAND] When a Quantum Computer Is Able to Break Our Encryption, It Won't Be a Secret](https://www.rand.org/pubs/commentary/2023/09/when-a-quantum-computer-is-able-to-break-our-encryption.html)
+- (2024) [Chinese researchers break RSA encryption with a quantum computer](https://www.csoonline.com/article/3562701/chinese-researchers-break-rsa-encryption-with-a-quantum-computer.html)
+
+### Technical
+- (2020) [[StackExchange] Could Taproot create larger security risks or even hinder future protocol adjustments re: Quantum threats?](https://bitcoin.stackexchange.com/questions/93047/could-taproot-create-larger-security-risks-or-even-hinder-future-protocol-adjust)
+- (2020) [[StackExchange] Is it possible to mine Bitcoin by implementing Grovers algorithm on a quantum computer?](https://quantumcomputing.stackexchange.com/questions/9798/is-it-possible-to-mine-bitcoin-by-implementing-grovers-algorithm-on-a-quantum-c/12847#12847)
+- (2021) [[OpTech #141] Discussion of quantum computer attacks on taproot](https://bitcoinops.org/en/newsletters/2021/03/24/#discussion-of-quantum-computer-attacks-on-taproot)
+- (2024) [Hash-Based Signature Schemes for Post-Quantum Bitcoin](https://conduition.io/cryptography/quantum-hbs/)
+- (2024) [Quantum Securing Bitcoin Really Isn’t That Hard](https://blog.coinshares.com/quantum-securing-bitcoin-really-isnt-that-hard-250d16157cb9)
+- (2024) [[MARA] Bitcoin vs. Quantum Computing: More Hype Than Reality](https://www.mara.com/posts/bitcoin-vs-quantum-computing-more-hype-than-reality)
+- (2025) [[River] Will Quantum Computing Break Bitcoin?](https://river.com/learn/will-quantum-computing-break-bitcoin/)
+
+## Discussions
+Discussions relating to quantum computing and Bitcoin on the [Bitcoin Development Mailing List (BDML)](https://groups.google.com/g/bitcoindev), [Delving Bitcoin (DB)](https://delvingbitcoin.org/), and [BitcoinTalk (BT)](https://bitcointalk.org/).
+
+- (2024) [[DB] Proposing a P2QRH BIP towards a quantum resistant soft fork](https://delvingbitcoin.org/t/proposing-a-p2qrh-bip-towards-a-quantum-resistant-soft-fork/956?u=cryptoquick)
+- (2024) [[BDML] Proposing a P2QRH BIP towards a quantum resistant soft fork](https://groups.google.com/g/bitcoindev/c/Aee8xKuIC2s)
+- (2024) [[BDML] Trivial QC signatures with clean upgrade path](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8)
+- (2024) [[BDML] Proposal for Quantum-Resistant Cryptography in Bitcoin - BIP Submission](https://groups.google.com/g/bitcoindev/c/p8xz08YTvkw)
+- (2025) [[BDML] Proposal for Quantum-Resistant Address Migration Protocol (QRAMP) BIP](https://groups.google.com/g/bitcoindev/c/8PM6iZCeDMc)
+- (2025) [[BDML] Against Allowing Quantum Recovery of Bitcoin](https://groups.google.com/g/bitcoindev/c/uUK6py0Yjq0)
+- (2025) [[BDML] Hashed keys are actually fully quantum secure](https://groups.google.com/g/bitcoindev/c/jr1QO95k6Uc)
 
 ## Projects
 - [Project 11](https://www.projecteleven.com/)
